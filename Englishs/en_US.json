@@ -6,7 +6,7 @@
             "NOT_EXECUTE_MD": "X | **You cannot run this Command in MD.**",
             "DISABLE_COMMANDS": "X | **The command is Temporarily Disabled.**",
 
-            "SET_LANGUAGE_SUCCESSFULLY": "Language changed to **ENGLISH**(English) successfully!",
+            "SET_LANGUAGE_SUCCESSFULLY": "Language changed to **ENGLISH**(us) successfully!",
             "SET_LANGUAGE_NOTSUPPORTED": "X | Language not supported.",
             "SET_LANGUAGE_NOT_EMBED_1_TITLE_1": ":earth_americas: | Available languages:",
 
