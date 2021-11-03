@@ -12,7 +12,7 @@
 
             "CMD_lANG_TITLE_ARGS_NULL": "Mugen | Help `LANG` PAGE: '1/2'",
             "CMD_lANG_TITLE_ARGS_1": "Mugen | Help PAGE: '2/2'",
-            "CMD_lANG_INFO_CARAPTERS": "<> Requiered. | [] Optional.",
+            "CMD_lANG_INFO_CARAPTERS": "<> Required. | [] Optional.",
             "CMD_lANG_ADD_CMD_0": "**7!lang** `(List of commands to change the language bot)`",
             "CMD_lANG_ADD_CMD_1": "**7!langhelp** `(Do you want to help translate the bot?)`",
             "CMD_lANG_ADD_CMD_2": "**7!langlist** `(List of available languages to which the bot can be translated)`",
@@ -21,11 +21,11 @@
             "CMD_LANGHELP_ARGS_NULL_EMBED_1_TITLE_1":":earth_americas: | Do you want to help translate Mugen BOT into other languages?",
             "CMD_LANGHELP_ARGS_NULL_EMBED_1_LINE_1":"Join the bot's official discord server or check the bot's website for help with the translation.",
             "CMD_LANGHELP_ARGS_NULL_EMBED_1_LINE_2":"[Click here to enter the **Discord Server**](https://discord.gg/QxmCSvZ)",
-            "CMD_LANGHELP_ARGS_NULL_EMBED_1_LINE_3":"[Click here to go to the BOT **Website***](https://mugenaibot.github.io/)",
+            "CMD_LANGHELP_ARGS_NULL_EMBED_1_LINE_3":"[Click here to go to the BOT **Website***](https://mugenaibot.github.io/en_US/index.html)",
   
             "CMD_HELP_TITLE_ARGS_NULL": "Mugen | Help PAGE: '1/2'",
             "CMD_HELP_TITLE_ARGS_1": "Mugen | Help PAGE: '2/2'",
-            "CMD_HELP_INFO_CARAPTERS": "<> Requiered. | [] Optional.",
+            "CMD_HELP_INFO_CARAPTERS": "<> Required. | [] Optional.",
             "CMD_HELP_ADD_CMD_0": "**7!help [1,2]** `(To see the list of commands that the bot has)`",
             "CMD_HELP_ADD_CMD_1": "**7!anime** `(Anime commands)`",
             "CMD_HELP_ADD_CMD_2": "**7!animals** `(Commands for viewing animal photos)`",
