@@ -5,6 +5,7 @@
             "COMING_SOON": "Coming Soon...",
             "NOT_EXECUTE_MD": "X | **You cannot run this Command in MD.**",
             "DISABLE_COMMANDS": "X | **The command is Temporarily Disabled.**",
+            "NOT_CHANNEL_NSFW": ":underage: | You're not on a **NSFW** channel.",
 
             "SET_LANGUAGE_SUCCESSFULLY": "Language changed to **ENGLISH**(us) successfully!",
             "SET_LANGUAGE_NOTSUPPORTED": "X | Language not supported.",
@@ -48,9 +49,105 @@
             "CMD_HELP_ADD_CMD_19": "**7!utils** `(Commands that can be useful to you)`",
             "CMD_HELP_ADD_CMD_20": "**7!web** `(Bot web page)`",
             "CMD_HELP_ADD_CMD_21": "**7!wiki** `(Bot Wiki)`",
+            
+            "CMD_UTILS_TITLE_ARGS_NULL": "Mugen | Help `Utils` PAGE: '1/2'",
+            "CMD_UTILS_TITLE_ARGS_1": "Mugen | Help `Utils` PAGE: '2/2'",
+            "CMD_UTILS_INFO_CARAPTERS": "<> Requiered. | [] Optional.",
+            "CMD_UTILS_ADD_CMD_0": "**7!utils [1,2]** `(To see the list of commands that the bot has)`",
+            "CMD_UTILS_ADD_CMD_1": "**7!avatar [user]** `(You will be able to see your Avatar and that of other Discord Users)`",
+            "CMD_UTILS_ADD_CMD_2": "**7!calculator <N°> <Symbol> <N°>** `(calculator)` | <a:heardmc:855612086348021780> `Beta!`",
+            "CMD_UTILS_ADD_CMD_3": "**7!translate <lang> <msg>** `(Translator)` | <a:heardmc:855612086348021780> `Beta!`",
+            "CMD_UTILS_ADD_CMD_4": "**7!translatelist** `(List of languages you can translate to)` ",
+            "CMD_UTILS_ADD_CMD_5": "**7!ping** `(Pong!, See your `**Ping**` or someone else's on Discord)` | <a:heardmc:855612086348021780> `Beta!`",
+            "CMD_UTILS_ADD_CMD_6": "**7!yt-t** `(This is a discord function which is called Youtube Together)` ",
+            "CMD_UTILS_ADD_CMD_7": "**7!jumbo <emote>** `(Enlarge the Emojis, in case you want to download them)` **Server Emotes only**",
+
+            "CMD_INTERACTION_TITLE_ARGS_NULL": "Mugen | Help `Interaction` PAGE: '1/2'",
+            "CMD_INTERACTION_TITLE_ARGS_1": "Mugen | Help `Interaction` PAGE: '2/2'",
+            "CMD_INTERACTION_INFO_CARAPTERS": "<> Requiered. | [] Optional.",
+            "CMD_INTERACTION_ADD_CMD_0": "**7!interaction [1,2]** `(To see the list of commands that the bot has)`",
+            "CMD_INTERACTION_ADD_CMD_1": "**7!hug <user>** `(Give or Receive a User a Hug)`",
+            "CMD_INTERACTION_ADD_CMD_2": "**7!kiss <user>** `(Kiss a User)`",
+            "CMD_INTERACTION_ADD_CMD_3": "**7!pat <user>** `(Stroke a User)`",
+            "CMD_INTERACTION_ADD_CMD_4": "**7!sad [user]** `(Being Sad or Being sad for a User)`",
+            "CMD_INTERACTION_ADD_CMD_5": "**7!happy [user]** `(Be Happy or Be Happy for a User)`",
+            "CMD_INTERACTION_ADD_CMD_6": "**7!punch <user>** `(Punch a User)` | `Coming soon...` <:logodiscord:744416138531831868>",
+            "CMD_INTERACTION_ADD_CMD_7": "**7!slap <user>** `(Paste a Cache to a User)` | `Coming soon...` <:logodiscord:744416138531831868>",
+            "CMD_INTERACTION_ADD_CMD_8": "**7!sleep [user]** `(To sleep Zzz...)`",
 
             "CMD_AVATAR_ARGS_CLIENTUSER_EMBED_1_TITLE_1": "Here my Avatar UwU.",
             "CMD_AVATAR_ARGS_NULLMEMBER_EMBED_1_TITLE_1": "Your Avatar:",
-            "CMD_AVATAR_ARGS_MEMBER_EMBED_1_TITLE_1": "Avatar of: "
+            "CMD_AVATAR_ARGS_MEMBER_EMBED_1_TITLE_1": "Avatar of: ",
+            
+            "FUN_LOVE_USER_NULL_1_EMBED_1_TITLE_1": "X | You must mention a user or 2 users.",
+            "FUN_LOVE_USER_NULL_1_EMBED_1_DESCRIPTION_1": "`7!love @user` OR `7!love @user @user2`",
+            
+            "FUN_LOVE_USER_BOT_1": "I can't calculate that with me!",
+            
+            "FUN_LOVE_USER_AUTHOR_1_EMBED_1_TITLE_1": "That cannot be calculated since the love you feel for yourself is infinite.",
+            "FUN_LOVE_USER_AUTHOR_1_EMBED_1_DESCRIPTION_1": ":heart: Infinite%",
+            
+            "FUN_LOVE_MSGCMD1_1_PART_1": "The percentage of",
+            "FUN_LOVE_MSGCMD1_1_PART_2": "&",
+            "FUN_LOVE_MSGCMD1_1_PART_3": "it is:",
+            
+            "FUN_LOVE_MSGCMD1_2_PART_1": "Go I calculate that",
+            "FUN_LOVE_MSGCMD1_2_PART_2": "&",
+            "FUN_LOVE_MSGCMD1_2_PART_3": "gives to:",
+
+            "FUN_LOVE_MSGCMD2_1_PART_1": "The percentage of",
+            "FUN_LOVE_MSGCMD2_1_PART_2": "&",
+            "FUN_LOVE_MSGCMD2_1_PART_3": "it is:",
+            
+            "FUN_LOVE_MSGCMD2_2_PART_1": "Go I calculate that",
+            "FUN_LOVE_MSGCMD2_2_PART_2": "&",
+            "FUN_LOVE_MSGCMD2_2_PART_3": "gives to:",
+
+            "INTERACTION_SLEEP_MSGCMD1_1": "Is sleepy",
+            "INTERACTION_SLEEP_MSGCMD1_2": "Is too sleepy",
+            "INTERACTION_SLEEP_MSGCMD1_3": "He is falling asleep.",
+            "INTERACTION_SLEEP_MSGCMD1_4": "Can't stand up from sleep anymore",
+            
+            "INTERACTION_SLEEP_MSGCMD2_1": "Wants to sleep next to",
+            "INTERACTION_SLEEP_MSGCMD2_2": "Wants to rest next to",
+            "INTERACTION_SLEEP_MSGCMD2_3": "He's falling asleep next to",
+            
+            "INTERACTION_SLEEP_MSGCMDBOT_1": "Wants to sleep next to me",
+
+            "INTERACTION_HUG_MSGCMD1_1": "gave a hug to",
+            "INTERACTION_HUG_MSGCMD1_2": "gave a loving hug to",
+
+            "INTERACTION_HUG_MSGCMDBOT_1": "I give you a big hug",
+
+            "LEENTRA_MSGCMD1_1": "If you only knew O.o",
+            "LEENTRA_MSGCMD2_1": "You cannot perform this action!",
+
+            "LEENTRA_1_EMBED_1_DESCRIPTION_1": "they enter",
+            "LEENTRA_1_EMBED_1_DESCRIPTION_1_1": "centimeters",
+
+            "LEENTRA_1_EMBED_2_DESCRIPTION_1": "TO",
+            "LEENTRA_1_EMBED_2_DESCRIPTION_1_1": "they enter",
+            "LEENTRA_1_EMBED_2_DESCRIPTION_1_2": "centimeters",
+
+            "MEMIDE_MSGCMD1_1": "I don't have a penis :u",
+            "MEMIDE_MSGCMD2_1": "You cannot perform this action!",
+
+            "MEMIDE_1_EMBED_1_DESCRIPTION_1": "measures him",
+            "MEMIDE_1_EMBED_1_DESCRIPTION_1_1": "centimeters",
+
+            "MEMIDE_1_EMBED_2_DESCRIPTION_1": "TO",
+            "MEMIDE_1_EMBED_2_DESCRIPTION_1_1": "measures him",
+            "MEMIDE_1_EMBED_2_DESCRIPTION_1_2": "centimeters",
+
+            "RADOMUSER_1_EMBED_1_DESCRIPTION_1": "Lucky:",
+
+            "YT-T_NOT_CHANNEL_VOICE": "X | You need to be on a Voice channel. (Command in <a:ddev:855614546672615445> `Alpha!`)",
+            "YT-T_1_EMBED_1_TITLE_1": ", Here is your Youtube Together.",
+            "YT-T_1_EMBED_1_DESCRIPTION_1": "This Command is On <a:ddev:855614546672615445> `Alpha!` | It may not work for mobile devices.",
+            "YT-T_1_EMBED_1_DESCRIPTION_2": "See the tutorial on how it works",
+            "YT-T_1_EMBED_1_DESCRIPTION_2_1": "HERE!",
+            "YT-T_1_EMBED_1_DESCRIPTION_3": "`\\__.The Invitation Lasts 24 Hours.__/`",
+            "YT-T_1_EMBED_1_DESCRIPTION_4": "**Your Link:**",
+            "YT-T_1_EMBED_1_DESCRIPTION_5": "**Click here to enter directly**"
   
 }
